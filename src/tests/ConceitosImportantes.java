@@ -1,4 +1,4 @@
-package tests.entities;
+package tests;
 
 public class ConceitosImportantes {
 }
@@ -160,10 +160,10 @@ PARTE 2 - TESTES AUTOMATIZADOS
 * JUnit - VISÃO GERAL:
 
 	- Site oficial: junit.org/junit5
-	- O primeiro passeo é criar uma classe de testes
+	- O primeiro passo é criar uma classe de testes
 	- A classe pode conter um ou mais métodos com a annotation @Test (É a annotation que identifica que é um teste)
 	- Um método @Test DEVE ser VOID
 	- O objetivo é que todos métodos @Test passem sem falhas
 	- O que vai definir se um método @Test passa ou não são as "assertions" deste método
-	- Se um ou mais falhas ocorrereem, estas são mostradas depois da execução do teste
+	- Se um ou mais falhas ocorrerem, estas são mostradas depois da execução do teste
 */
